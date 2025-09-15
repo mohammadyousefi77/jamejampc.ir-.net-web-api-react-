@@ -1,0 +1,1017 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\core\\interfaces\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\core\\interfaces\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\core\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\core\\interfaces\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\models\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\models\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\services\\coursesubcategoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\services\\coursesubcategoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\services\\examattemptservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\services\\examattemptservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\models\\examattempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\models\\examattempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\models\\coursesubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\models\\coursesubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\core\\interfaces\\iexamattemptservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\core\\interfaces\\iexamattemptservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\controllers\\examattemptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\controllers\\examattemptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\dtos\\examattemptdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\dtos\\examattemptdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\dtos\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\migrations\\20250803222445_examattemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\migrations\\20250803222445_examattemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\20250803211307_examattemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExamPr\\Migrations\\20250803211307_examattemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\20250803210959_examattemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExamPr\\Migrations\\20250803210959_examattemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\controllers\\subcoursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\controllers\\subcoursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\dtos\\samplequestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\dtos\\samplequestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\controllers\\samplequestioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\controllers\\samplequestioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\services\\samplequestionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\services\\samplequestionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\dtos\\coursesubcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\dtos\\coursesubcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\core\\interfaces\\isamplequestionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\core\\interfaces\\isamplequestionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\models\\samplequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\models\\samplequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\core\\interfaces\\icoursesubcategoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\core\\interfaces\\icoursesubcategoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\dtos\\subcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\dtos\\subcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\core\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\core\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\20250722115842_addmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExamPr\\Migrations\\20250722115842_addmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\migrations\\20250717224855_addcoursetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\migrations\\20250717224855_addcoursetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\20250722114438_AddModelss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExamPr\\Migrations\\20250722114438_AddModelss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\20250722114345_AddModelss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExamPr\\Migrations\\20250722114345_AddModelss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\migrations\\20250714123230_initregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\migrations\\20250714123230_initregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\20250722113835_AddMopdelss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExamPr\\Migrations\\20250722113835_AddMopdelss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\dtos\\bulkanswersubmissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\dtos\\bulkanswersubmissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\core\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\core\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\exampr.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\exampr.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\migrations\\20250722120027_addmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\migrations\\20250722120027_addmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|c:\\users\\star\\desktop\\examproject\\exambackend\\exampr\\exampr\\migrations\\20250722153742_sampelq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AACC6E3-951B-40AB-B268-F85C2DE55848}|ExamPr\\ExamPr.csproj|solutionrelative:exampr\\migrations\\20250722153742_sampelq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Program.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Program.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Program.cs",
+              "RelativeToolTip": "ExamPr\\Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAnwE0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T21:36:05.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ExamPr\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\appsettings.Development.json",
+              "RelativeToolTip": "ExamPr\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-24T18:51:54.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ExamPr\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T10:58:52.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Models\\Course.cs",
+              "RelativeToolTip": "ExamPr\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T22:32:44.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "ExamPr\\Controllers\\CoursesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T22:51:01.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\appsettings.json",
+              "RelativeDocumentMoniker": "ExamPr\\appsettings.json",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\appsettings.json",
+              "RelativeToolTip": "ExamPr\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-13T22:26:41.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ExamPr\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T21:48:24.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Models\\UserRegistration.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Models\\UserRegistration.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Models\\UserRegistration.cs",
+              "RelativeToolTip": "ExamPr\\Models\\UserRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T23:18:15.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Core\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Core\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Core\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "ExamPr\\Core\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T23:15:28.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Services\\UserServices.cs",
+              "RelativeToolTip": "ExamPr\\Services\\UserServices.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T10:15:32.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Services\\CourseService.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Services\\CourseService.cs",
+              "RelativeToolTip": "ExamPr\\Services\\CourseService.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowCIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T23:10:29.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Core\\Interfaces\\IUserServices.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Core\\Interfaces\\IUserServices.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Core\\Interfaces\\IUserServices.cs",
+              "RelativeToolTip": "ExamPr\\Core\\Interfaces\\IUserServices.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAMwAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T10:16:20.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CourseSubcategoryServices.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Services\\CourseSubcategoryServices.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Services\\CourseSubcategoryServices.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Services\\CourseSubcategoryServices.cs",
+              "RelativeToolTip": "ExamPr\\Services\\CourseSubcategoryServices.cs",
+              "ViewState": "AQIAADQAAABAzMzMzMwwwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T04:16:38.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Core\\Interfaces\\ICourseService.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Core\\Interfaces\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Core\\Interfaces\\ICourseService.cs",
+              "RelativeToolTip": "ExamPr\\Core\\Interfaces\\ICourseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T23:09:37.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExamAttemptServices.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Services\\ExamAttemptServices.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Services\\ExamAttemptServices.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Services\\ExamAttemptServices.cs",
+              "RelativeToolTip": "ExamPr\\Services\\ExamAttemptServices.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T21:17:14.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExamAttempt.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Models\\ExamAttempt.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Models\\ExamAttempt.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Models\\ExamAttempt.cs",
+              "RelativeToolTip": "ExamPr\\Models\\ExamAttempt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T21:18:12.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CourseSubcategory.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Models\\CourseSubcategory.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Models\\CourseSubcategory.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Models\\CourseSubcategory.cs",
+              "RelativeToolTip": "ExamPr\\Models\\CourseSubcategory.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCIAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T12:14:31.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IExamAttemptServices.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Core\\Interfaces\\IExamAttemptServices.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Core\\Interfaces\\IExamAttemptServices.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Core\\Interfaces\\IExamAttemptServices.cs",
+              "RelativeToolTip": "ExamPr\\Core\\Interfaces\\IExamAttemptServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T21:15:48.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExamAttemptController.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Controllers\\ExamAttemptController.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Controllers\\ExamAttemptController.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Controllers\\ExamAttemptController.cs",
+              "RelativeToolTip": "ExamPr\\Controllers\\ExamAttemptController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:29:18.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Models\\User.cs",
+              "RelativeToolTip": "ExamPr\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T22:47:34.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Data\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Data\\UnitOfWork.cs",
+              "RelativeToolTip": "ExamPr\\Data\\UnitOfWork.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T21:51:10.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Core\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "ExamPr\\Core\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T21:49:27.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Models\\Payment.cs",
+              "RelativeToolTip": "ExamPr\\Models\\Payment.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T21:19:04.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ExamAttemptDTO.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\DTOs\\ExamAttemptDTO.cs",
+              "RelativeDocumentMoniker": "ExamPr\\DTOs\\ExamAttemptDTO.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\DTOs\\ExamAttemptDTO.cs",
+              "RelativeToolTip": "ExamPr\\DTOs\\ExamAttemptDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T21:40:41.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ExamPr\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAE8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T21:50:57.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Core\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Core\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Core\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "ExamPr\\Core\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T21:58:01.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CourseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\DTOs\\CourseDTO.cs",
+              "RelativeDocumentMoniker": "ExamPr\\DTOs\\CourseDTO.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\DTOs\\CourseDTO.cs",
+              "RelativeToolTip": "ExamPr\\DTOs\\CourseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:28:47.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "ExamPr\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T21:52:39.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250803222445_examattemp.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\20250803222445_examattemp.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Migrations\\20250803222445_examattemp.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\20250803222445_examattemp.cs",
+              "RelativeToolTip": "ExamPr\\Migrations\\20250803222445_examattemp.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T22:24:45.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ExamPr\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwNoBAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:40:39.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250803211307_examattemp.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\20250803211307_examattemp.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Migrations\\20250803211307_examattemp.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\20250803211307_examattemp.cs",
+              "RelativeToolTip": "ExamPr\\Migrations\\20250803211307_examattemp.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T21:13:07.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250803210959_examattemp.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\20250803210959_examattemp.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Migrations\\20250803210959_examattemp.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\20250803210959_examattemp.cs",
+              "RelativeToolTip": "ExamPr\\Migrations\\20250803210959_examattemp.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T21:10:00.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SubCoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Controllers\\SubCoursesController.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Controllers\\SubCoursesController.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Controllers\\SubCoursesController.cs",
+              "RelativeToolTip": "ExamPr\\Controllers\\SubCoursesController.cs",
+              "ViewState": "AQIAACsAAADAmJmZmZkpwA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T22:36:14.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CourseSubcategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\DTOs\\CourseSubcategoryDTO.cs",
+              "RelativeDocumentMoniker": "ExamPr\\DTOs\\CourseSubcategoryDTO.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\DTOs\\CourseSubcategoryDTO.cs",
+              "RelativeToolTip": "ExamPr\\DTOs\\CourseSubcategoryDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T04:20:20.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SampleQuestionController.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Controllers\\SampleQuestionController.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Controllers\\SampleQuestionController.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Controllers\\SampleQuestionController.cs",
+              "RelativeToolTip": "ExamPr\\Controllers\\SampleQuestionController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwFcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T16:23:55.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SampleQuestionDto.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\DTOs\\SampleQuestionDto.cs",
+              "RelativeDocumentMoniker": "ExamPr\\DTOs\\SampleQuestionDto.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\DTOs\\SampleQuestionDto.cs",
+              "RelativeToolTip": "ExamPr\\DTOs\\SampleQuestionDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T16:29:32.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SampleQuestionServices.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Services\\SampleQuestionServices.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Services\\SampleQuestionServices.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Services\\SampleQuestionServices.cs",
+              "RelativeToolTip": "ExamPr\\Services\\SampleQuestionServices.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:25:47.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ISampleQuestionServices.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Core\\Interfaces\\ISampleQuestionServices.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Core\\Interfaces\\ISampleQuestionServices.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Core\\Interfaces\\ISampleQuestionServices.cs",
+              "RelativeToolTip": "ExamPr\\Core\\Interfaces\\ISampleQuestionServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:26:11.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SampleQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Models\\SampleQuestion.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Models\\SampleQuestion.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Models\\SampleQuestion.cs",
+              "RelativeToolTip": "ExamPr\\Models\\SampleQuestion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T12:16:02.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ICourseSubcategoryServices.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Core\\Interfaces\\ICourseSubcategoryServices.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Core\\Interfaces\\ICourseSubcategoryServices.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Core\\Interfaces\\ICourseSubcategoryServices.cs",
+              "RelativeToolTip": "ExamPr\\Core\\Interfaces\\ICourseSubcategoryServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T04:17:09.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Repositories\\Repository.cs",
+              "RelativeToolTip": "ExamPr\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwCcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T23:17:47.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SubCourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\DTOs\\SubCourseDto.cs",
+              "RelativeDocumentMoniker": "ExamPr\\DTOs\\SubCourseDto.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\DTOs\\SubCourseDto.cs",
+              "RelativeToolTip": "ExamPr\\DTOs\\SubCourseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:46:02.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Core\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Core\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Core\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "ExamPr\\Core\\Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T21:49:57.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Services\\AuthService.cs",
+              "RelativeToolTip": "ExamPr\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAjwAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T21:53:37.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "ExamPr\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "ExamPr\\DTOs\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T21:51:41.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "ExamPr\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "ExamPr\\DTOs\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T21:51:58.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20250722153742_sampelq.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\20250722153742_sampelq.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Migrations\\20250722153742_sampelq.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\20250722153742_sampelq.cs",
+              "RelativeToolTip": "ExamPr\\Migrations\\20250722153742_sampelq.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:37:43.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20250722115842_addmodels.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\20250722115842_addmodels.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Migrations\\20250722115842_addmodels.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\20250722115842_addmodels.cs",
+              "RelativeToolTip": "ExamPr\\Migrations\\20250722115842_addmodels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:58:42.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20250722120027_addmodels.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\20250722120027_addmodels.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Migrations\\20250722120027_addmodels.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\20250722120027_addmodels.cs",
+              "RelativeToolTip": "ExamPr\\Migrations\\20250722120027_addmodels.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:00:27.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20250717224855_AddCourseTable.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\20250717224855_AddCourseTable.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Migrations\\20250717224855_AddCourseTable.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\20250717224855_AddCourseTable.cs",
+              "RelativeToolTip": "ExamPr\\Migrations\\20250717224855_AddCourseTable.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T22:48:55.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20250722114345_AddModelss.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\20250722114345_AddModelss.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Migrations\\20250722114345_AddModelss.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\20250722114345_AddModelss.cs",
+              "RelativeToolTip": "ExamPr\\Migrations\\20250722114345_AddModelss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:43:46.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20250722114438_AddModelss.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\20250722114438_AddModelss.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Migrations\\20250722114438_AddModelss.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\20250722114438_AddModelss.cs",
+              "RelativeToolTip": "ExamPr\\Migrations\\20250722114438_AddModelss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:44:38.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20250714123230_Initregister.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\20250714123230_Initregister.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Migrations\\20250714123230_Initregister.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\20250714123230_Initregister.cs",
+              "RelativeToolTip": "ExamPr\\Migrations\\20250714123230_Initregister.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:32:30.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20250722113835_AddMopdelss.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\20250722113835_AddMopdelss.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Migrations\\20250722113835_AddMopdelss.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Migrations\\20250722113835_AddMopdelss.cs",
+              "RelativeToolTip": "ExamPr\\Migrations\\20250722113835_AddMopdelss.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:38:35.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "BulkAnswerSubmissionDto.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\DTOs\\BulkAnswerSubmissionDto.cs",
+              "RelativeDocumentMoniker": "ExamPr\\DTOs\\BulkAnswerSubmissionDto.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\DTOs\\BulkAnswerSubmissionDto.cs",
+              "RelativeToolTip": "ExamPr\\DTOs\\BulkAnswerSubmissionDto.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAcwCgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T21:26:07.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "ExamPr\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwB4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T21:53:11.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Core\\Interfaces\\IJwtService.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Core\\Interfaces\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Core\\Interfaces\\IJwtService.cs",
+              "RelativeToolTip": "ExamPr\\Core\\Interfaces\\IJwtService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T22:45:30.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ExamPr\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ExamPr\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-13T22:52:28.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "ExamPr\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\Services\\JwtService.cs",
+              "RelativeToolTip": "ExamPr\\Services\\JwtService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T07:48:09.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ExamPr.http",
+              "DocumentMoniker": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\ExamPr.http",
+              "RelativeDocumentMoniker": "ExamPr\\ExamPr.http",
+              "ToolTip": "C:\\Users\\StaR\\Desktop\\examproject\\exambackend\\ExamPr\\ExamPr\\ExamPr.http",
+              "RelativeToolTip": "ExamPr\\ExamPr.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-13T21:40:41.675Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
